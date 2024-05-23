@@ -10,6 +10,7 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 
 
 **Coelho (Jogador):** O jogador controla um coelho que se mexe verticalmente ao pressionar a tecla "Espaço" para saltar. O coelho pode fazer um salto duplo para evitar obstáculos.
+![coelho](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/18365078-cced-4656-8505-87261dd23cd9)
 
 **Obstáculos:** Vários tipos de comida (carne, peixe, maçã, cenoura) aparecem aleatoriamente e movem-se da direita para a esquerda. O jogador deve evitar colidir com esses obstáculos.
 
