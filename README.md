@@ -1,11 +1,13 @@
 **Descrição do Jogo**
 
+
 **Nome:** Corrida pela Comida
 
 **Objetivo:**
 O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculos e coletar comida para aumentar sua pontuação.
 
 **Componentes do Jogo:**
+
 
 **Coelho (Jogador):** O jogador controla um coelho que se mexe verticalmente ao pressionar a tecla "Espaço" para saltar. O coelho pode fazer um salto duplo para evitar obstáculos.
 
@@ -24,10 +26,16 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 **Como Jogar:**  
 
 Pressiona a tecla "Espaço" para fazer o coelho saltar.
+
 O coelho pode fazer um salto duplo se a tecla "Espaço" for pressionada novamente enquanto está no ar.
+
 Evita colidir com os obstáculos para manter as vidas.
+
 A pontuação aumenta ao evitar obstáculos.
+
 Quando todas as vidas são perdidas, o jogo termina e uma mensagem "Perdeste" é exibida.
+
 Pressiona "Espaço" após o "Perdeste" para reiniciar o jogo.
-Desenvolvimento:
-O jogo foi desenvolvido usando HTML, CSS e JavaScript. 
+
+
+**Desenvolvimento:** O jogo foi desenvolvido usando HTML, CSS e JavaScript. 
