@@ -13,6 +13,10 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 ![coelho](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/18365078-cced-4656-8505-87261dd23cd9)
 
 **Obstáculos:** Vários tipos de comida (carne, peixe, maçã, cenoura) aparecem aleatoriamente e movem-se da direita para a esquerda. O jogador deve evitar colidir com esses obstáculos.
+![peixe](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/fc922c23-29da-4187-a209-74d74e565872)
+![maca](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/aa9e7417-fb6e-43ae-89a9-41ce89c74233)
+![cenoura](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/5e647cac-7733-4007-9af2-71e4b43e4da0)
+![carne](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/45874701-a8b3-463a-a904-de40a3504a7b)
 
 **Pacman Ghost:** A personagem do Pacman Ghost é exibida no canto inferior esquerdo da tela, que se alimenta dos obstaculos quando os mesmos nao colidem com o jodagor.
 
