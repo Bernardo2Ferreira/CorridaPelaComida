@@ -1,6 +1,6 @@
 **Descrição do Jogo**
 
-Nome: Corrida pela Comida
+**Nome:** Corrida pela Comida
 
 **Objetivo:**
 O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculos e coletar comida para aumentar sua pontuação.
