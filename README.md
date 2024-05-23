@@ -39,3 +39,4 @@ Pressiona "Espaço" após o "Perdeste" para reiniciar o jogo.
 
 
 **Desenvolvimento:** O jogo foi desenvolvido usando HTML, CSS e JavaScript. 
+**Realizado por:** Bernardo ferreira | 200100262
