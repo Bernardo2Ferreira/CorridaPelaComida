@@ -1,10 +1,10 @@
 **Descrição do Jogo**
 
 
-**Nome:** Corrida pela Comida
+**Nome:** **Corrida pela Comida**
 
 **Objetivo:**
-O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculos e coletar comida para aumentar sua pontuação.
+O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculos (a Comida) e deixar os mesmos chegar a personagem pacman ghost aumentar sua pontuação.
 
 **Componentes do Jogo:**
 
@@ -32,7 +32,7 @@ O objetivo do jogo é controlar um coelho que deve saltar para evitar obstáculo
 
 **Vidas:** O jogador começa com três vidas, representadas por corações no canto superior direito. Cada colisão com um obstáculo reduz uma vida. Quando todas as vidas são perdidas, o jogo termina e é reniciado clicando novamente na tecla espaço.
 
-**Fundo Animado:** O fundo do jogo move-se continuamente da direita para a esquerda, criando um efeito de corrida infinita.
+**Fundo:** O fundo do jogo move-se continuamente da direita para a esquerda, criando um efeito de corrida infinita.
 ![mine1](https://github.com/Bernardo2Ferreira/CorridaPelaComida/assets/160871420/dbbb42eb-0e80-4f29-befd-4c64aab86abd)
 
 
